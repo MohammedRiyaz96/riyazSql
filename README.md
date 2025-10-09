@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Projects
+# Exploratory Data Analysis (EDA) Projects
 These EDA projects invlove basic explorations and advanced analytics.
 
 ---
